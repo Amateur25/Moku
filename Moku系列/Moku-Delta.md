@@ -69,8 +69,3 @@ responsible_contacts:
 - [[高速信号采集记录回放仪]]
 - [[逻辑分析仪码型发生器]]
 - [[神经网络]]
-
-## 相关
-
-- [[Moku]]
-- [[GenInst Studio]]
