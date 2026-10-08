@@ -57,8 +57,3 @@ responsible_contacts:
 - [[数据记录器]]
 - [[逻辑分析仪码型发生器]]
 - [[神经网络]]
-
-## 相关
-
-- [[Moku]]
-- [[GenInst Studio]]
