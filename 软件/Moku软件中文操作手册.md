@@ -77,7 +77,7 @@ Moku 软件配合 Liquid Instruments 可重配置硬件使用。电脑负责仪�
 
 ### 4.3 仪器选择页
 
-![本机 Pro 演示仪器页](截图/03-pro-demo.png)
+![本机 Pro 演示仪器页](02-pro.png)
 
 **图 2：Moku:Pro 演示页全部 15 张入口卡片。**
 
